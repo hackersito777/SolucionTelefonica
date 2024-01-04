@@ -9,6 +9,18 @@ const Blog = () => {
       </header>
       <main>
         <article>
+
+        <div className="ad-container">
+          <iframe
+            title="Anuncio"
+            data-aa='2291908'
+            src='//ad.a-ads.com/2291908?size=970x90'
+            style={{ width: '970px', height: '90px', border: '0px', padding: '0', overflow: 'hidden', backgroundColor: 'transparent' }}
+          ></iframe>
+        </div>
+
+        
+
           <h2>"¡No Más Problemas! Reparando las Interrupciones de Samsung One UI Home (2024)"</h2>
           <div>
       <h2>¿Te sale el error "Samsung One UI Home se sigue cerrando"?</h2>
